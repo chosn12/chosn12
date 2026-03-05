@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
  <b>Creating a Reuseable Lab Environment</b>
-  - [Walk-through creating a 3 VM secure sandbox](https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/c3547e1b51db9dbbbfcab569f671976da05e3758/README.md)
+  - [Walk-through creating a 3 VM secure sandbox on MAC using UTM](https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/c3547e1b51db9dbbbfcab569f671976da05e3758/README.md)
  <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
