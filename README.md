@@ -1,9 +1,13 @@
-<h1>Hi, I'm Fred!</h1>
+# Hi, I'm Fred!
 
-<h2> Cybersecurity Projects:</h2>
+## Cybersecurity Projects:
 
- <b>Creating a Reuseable Lab Environment</b>
+ Creating a Reuseable Lab Environment
   - [3 VM sandbox set up on MAC using UTM](https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/70db868a36c2e5b37d1c13fd332e5460c2bcc71a/README.md)
+
+  Secure Windows VM per CIS benchmarks
+
+
  <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
