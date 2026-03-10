@@ -8,7 +8,7 @@
  [Creating a Reuseable Lab Environment](https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/624cd3b807ad71c4fe19eb33c7650109fc644496/README.md)
 
 
-  [Secure Windows VM per CIS benchmarks](https://github.com/chosn12/Windows-VM-Security-Best-Practices/blob/c387c4069227cf5a245545be8bd7c4709a913ca2/README.md)
+  [Secure Windows VM per CIS benchmarks](https://github.com/chosn12/Windows-VM-Security-Best-Practices/blob/8303b9fc615104fdd2a82f5af89d79eed33909a9/README.md)
 
 
  <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
