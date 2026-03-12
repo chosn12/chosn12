@@ -11,7 +11,7 @@
  [Secure Windows VM per CIS benchmarks](https://github.com/chosn12/Windows-VM-Security-Best-Practices/blob/8303b9fc615104fdd2a82f5af89d79eed33909a9/README.md)
 
 
- Lock down Ubuntu VM
+ [Secure Ubuntu VM]()
 
 
  <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
