@@ -11,7 +11,7 @@
  [Secure Windows VM per CIS benchmarks](https://github.com/chosn12/Windows-VM-Security-Best-Practices/blob/8303b9fc615104fdd2a82f5af89d79eed33909a9/README.md)
 
 
- [Secure Ubuntu VM - Basic](https://github.com/chosn12/Securing-Ubuntu-VM/blob/48c77cfe5b2c780efb45481baa686bd8a18f5ee5/README.md)
+ [Secure Ubuntu VM - Basic](https://github.com/chosn12/Securing-Ubuntu-VM/blob/0a615043881a141bb16e5ff82d8931c16d2bd243/README.md)
 
 
  <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
