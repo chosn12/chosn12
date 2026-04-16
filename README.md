@@ -16,7 +16,7 @@
 
  [NMAP Basics - Mac Version](https://github.com/chosn12/nmap-Enumeration/blob/338931d08ada7ec1d59bad03fb81873e7852f2c6/README.md)
 
- [Install and Run OpenVas](https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/af51d14ef1cd75d4453f92d9d769a969d5f34a86/README.md)
+ [Install and Run OpenVAS](https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/af51d14ef1cd75d4453f92d9d769a969d5f34a86/README.md)
 
 
  <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
