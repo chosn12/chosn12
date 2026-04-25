@@ -18,6 +18,8 @@
 
  [Install and Run OpenVAS](https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/af51d14ef1cd75d4453f92d9d769a969d5f34a86/README.md)
 
+ [Centralized Log Forwarding ](https://github.com/chosn12/Syslog-Forwarding/blob/c535c3d677dc13ed055ea3e2fd50665144f54b22/README.md)
+
 
  <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
